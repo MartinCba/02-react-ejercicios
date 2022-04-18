@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro Darker",
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#282c34",
+    "sideBar.background": "#282c34",
+    "editor.tokenColorCustomizations": {
+      "[One Dark Pro]": {
+        "textMateRules": [
+          {
+            "scope": [
+              "source.python"
+            ],
+            "settings": {
+              "foreground": "#e06c75"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
